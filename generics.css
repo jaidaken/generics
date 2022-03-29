@@ -1,5 +1,5 @@
 :root {
-	--background: #000;
+  --background: #000;
 }
 
 * {
@@ -12,6 +12,7 @@
 }
 
 body {
-	margin: 0;
-	padding: 0;
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
